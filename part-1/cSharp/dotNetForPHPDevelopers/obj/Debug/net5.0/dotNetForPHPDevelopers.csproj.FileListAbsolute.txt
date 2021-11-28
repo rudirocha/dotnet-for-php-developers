@@ -1,0 +1,15 @@
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/bin/Debug/net5.0/dotNetForPHPDevelopers.deps.json
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/bin/Debug/net5.0/dotNetForPHPDevelopers.runtimeconfig.json
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/bin/Debug/net5.0/dotNetForPHPDevelopers.runtimeconfig.dev.json
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/bin/Debug/net5.0/dotNetForPHPDevelopers.dll
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/bin/Debug/net5.0/ref/dotNetForPHPDevelopers.dll
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/bin/Debug/net5.0/dotNetForPHPDevelopers.pdb
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.csproj.AssemblyReference.cache
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.AssemblyInfoInputs.cache
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.AssemblyInfo.cs
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.csproj.CoreCompileInputs.cache
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.dll
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/ref/dotNetForPHPDevelopers.dll
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.pdb
+/Users/rudirocha/Development/content/dotNetForPHPdevelopers/scripts/cSharp/dotNetForPHPDevelopers/obj/Debug/net5.0/dotNetForPHPDevelopers.genruntimeconfig.cache
