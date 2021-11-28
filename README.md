@@ -1,6 +1,6 @@
 # dotnet for PHP developers
 
-This is a repo containing the code produced writing a few articles on (Medium)[https://rudirocha.medium.com/net-core-for-php-engineers-part-i-316af0fbd2d0]
+This is a repo containing the code produced writing a few articles on [Medium](https://rudirocha.medium.com/net-core-for-php-engineers-part-i-316af0fbd2d0)
 
 ## Content
 
